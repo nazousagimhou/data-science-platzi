@@ -1,6 +1,7 @@
 # Curso de Introducción al Pensamiento Computacional con Python
-Descripción del curso
-## Subtitulo 1
+En esta carpeta están los codigos realizados en el curso. 
+## Codigos
 Descripción 2
-* Bullet 1
+* Aproximación de Raíz Cuadrada
+  * descripción del codigo
 * Bullet 2
