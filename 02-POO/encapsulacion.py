@@ -1,4 +1,3 @@
-#No corre bien el codigo 
 class CasillaDeVotacion:
     
     def __init__(self, identificador, pais):
