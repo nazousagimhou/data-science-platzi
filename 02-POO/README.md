@@ -1,27 +1,28 @@
 # Curso de Programación Orientada a Objetos
 # y Algoritmos con Python
-1. Encapsulacion
-### nombre: encapsulacion.py
-### contendido: ejemplo de uso de decoradores 
-### nota: no corre bien este programa
 
-# 2. Abstracción
-### nombre: abstraccion.py 
-### contenido:
-### nota:
-* [Abtracción](https://github.com/nazousagimhou/data-science-platzi/blob/master/02-POO/abstraccion.py)
+## 1. [Encapsulacion](https://github.com/nazousagimhou/data-science-platzi/blob/master/02-POO/encapsulacion.py)
+#### nombre: encapsulacion.py
+#### contendido: ejemplo de uso de decoradores 
+#### nota: no corre bien este programa
 
-3. Herencia
-### nombre: abstraccion.py 
-### contenido:
-### nota:
+## 2. [Abtracción](https://github.com/nazousagimhou/data-science-platzi/blob/master/02-POO/abstraccion.py)
 
-4. Instancia
-### nombre:  
-### contenido:
-### nota:
+#### nombre: abstraccion.py 
+#### contenido: objeto lavadora y sus metodos basicos
+#### nota: solo es una lavadora
+
+## 3. [Instancia](https://github.com/nazousagimhou/data-science-platzi/blob/master/02-POO/instancias.py)
+#### nombre: instancias.py 
+#### contenido: Ejemplo de instancia aplicada al calculo de distancia netre coordenadas
+#### nota: el codigo solo resta coordenadas cartecianas
+
+## Herencia
+#### nombre: abstraccion.py 
+#### contenido:
+#### nota:
 
 5.Personaje
-### nombre:
-### contenido: ejemplo de clase , sub clase y polimorfismo
-### nota: los personajes son en honor a los chistes del RayoConfuso
+#### nombre:
+#### contenido: ejemplo de clase , sub clase y polimorfismo
+#### nota: los personajes son en honor a los chistes del RayoConfuso
