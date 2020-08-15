@@ -1,5 +1,4 @@
-# Curso de Programación Orientada a Objetos
-# y Algoritmos con Python
+# Curso de Programación Orientada a Objetos y Algoritmos con Python
 
 ## 1. [Encapsulacion](https://github.com/nazousagimhou/data-science-platzi/blob/master/02-POO/encapsulacion.py)
 #### nombre: encapsulacion.py
@@ -20,12 +19,12 @@
 
 ## 4. [Herencia]()
 
-#### nombre: abstraccion.py 
-#### contenido:
-#### nota:
+#### nombre: herencia.py 
+#### contenido: ejamplo de herencia de atributos de la clase Rectangulo
+#### nota: un cuadrado es un caso particular de rectangulo 
 
 ## 5.[Personaje]()
 
-#### nombre:
+#### nombre: personaje.py
 #### contenido: ejemplo de clase , sub clase y polimorfismo
 #### nota: los personajes son en honor a los chistes del RayoConfuso
