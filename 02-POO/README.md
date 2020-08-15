@@ -1,6 +1,7 @@
 # Curso de Programación Orientada a Objetos y Algoritmos con Python
 
 ## 1. [Encapsulacion](https://github.com/nazousagimhou/data-science-platzi/blob/master/02-POO/encapsulacion.py)
+
 #### nombre: encapsulacion.py
 #### contendido: ejemplo de uso de decoradores 
 #### nota: no corre bien este programa
@@ -14,16 +15,16 @@
 ## 3. [Instancia](https://github.com/nazousagimhou/data-science-platzi/blob/master/02-POO/instancias.py)
 
 #### nombre: instancias.py 
-#### contenido: Ejemplo de instancia aplicada al calculo de distancia entre coordenadas
+#### contenido: ejemplo de instancia aplicada al calculo de distancia entre coordenadas
 #### nota: el codigo solo resta coordenadas cartecianas
 
-## 4. [Herencia]()
+## 4. [Herencia](https://github.com/nazousagimhou/data-science-platzi/blob/master/02-POO/herencia.py)
 
 #### nombre: herencia.py 
 #### contenido: ejamplo de herencia de atributos de la clase Rectangulo
 #### nota: un cuadrado es un caso particular de rectangulo 
 
-## 5.[Personaje]()
+## 5.[Personaje](https://github.com/nazousagimhou/data-science-platzi/blob/master/02-POO/personaje.py)
 
 #### nombre: personaje.py
 #### contenido: ejemplo de clase , sub clase y polimorfismo
