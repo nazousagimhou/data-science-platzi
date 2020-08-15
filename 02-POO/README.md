@@ -13,16 +13,19 @@
 #### nota: solo es una lavadora
 
 ## 3. [Instancia](https://github.com/nazousagimhou/data-science-platzi/blob/master/02-POO/instancias.py)
+
 #### nombre: instancias.py 
-#### contenido: Ejemplo de instancia aplicada al calculo de distancia netre coordenadas
+#### contenido: Ejemplo de instancia aplicada al calculo de distancia entre coordenadas
 #### nota: el codigo solo resta coordenadas cartecianas
 
-## Herencia
+## 4. [Herencia]()
+
 #### nombre: abstraccion.py 
 #### contenido:
 #### nota:
 
-5.Personaje
+## 5.[Personaje]()
+
 #### nombre:
 #### contenido: ejemplo de clase , sub clase y polimorfismo
 #### nota: los personajes son en honor a los chistes del RayoConfuso
