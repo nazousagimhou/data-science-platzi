@@ -5,7 +5,7 @@
 ### contendido: ejemplo de uso de decoradores 
 ### nota: no corre bien este programa
 
-2. Abstracción
+# 2. Abstracción
 ### nombre: abstraccion.py 
 ### contenido:
 ### nota:
