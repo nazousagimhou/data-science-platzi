@@ -45,9 +45,6 @@ class Antagonista(Personaje):
         print('----------------------------------------------------------------------')
 
 
-#class TikTak:
-
-
 if __name__ == '__main__':
     heroina = Protagonista(nombre = 'Rei', ataque = 50)
     relacion = Antagonista(ataque = 70)
