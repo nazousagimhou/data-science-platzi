@@ -35,6 +35,16 @@ class Antagonista(Personaje):
     def __init__(self, ataque):
         super().__init__('Antagonista', 'Toxiturbia', 200, ataque)
 
+#El metodo imprimir valores en la sub clase Antagonista ha sido modificado 
+# para solo motrar algunos valores del metodo de la super calse Personaje
+# Es un ejemplo de polimorfismo     
+    def imprimir_valores(self):
+        print('----------------------------------------------------------------------')
+        print(f'Nombre: {self.nombre}')
+        print(f'Ataque: {self.ataque}')
+        print('----------------------------------------------------------------------')
+
+
 #class TikTak:
 
 
@@ -44,6 +54,7 @@ if __name__ == '__main__':
 
     heroina.recibir_danio(relacion)
     heroina.imprimir_valores()
+    relacion.imprimir_valores()
     
     heroina.recibir_danio(relacion)
     
